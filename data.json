@@ -7,6 +7,12 @@
       "type": "link",
       "desc": "alas kaki",
       "link": "https://id.wikipedia.org/wiki/Alas_kaki"
+    },
+    {
+      "title": "Sepatu",
+      "type": "link",
+      "desc": null,
+      "link": null
     }
   ]
 }
