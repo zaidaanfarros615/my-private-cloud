@@ -1,6 +1,12 @@
-
 {
   "user_display_name": "Siswa",
   "progress": 0,
-  "materials": []
+  "materials": [
+    {
+      "title": "alas kaki",
+      "type": "link",
+      "desc": "alas kaki",
+      "link": "https://id.wikipedia.org/wiki/Alas_kaki"
+    }
+  ]
 }
